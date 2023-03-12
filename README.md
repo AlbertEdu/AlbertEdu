@@ -1,16 +1,38 @@
-### Hi there 👋
+# Buenas! 🫡 Soy Alberto Eduardo Nuñez Gottschalk. 🙋🏾‍♂️
 
-<!--
-**AlbertEdu/AlbertEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy de **Paraguay** 📍Trabajo de _profesor de **Inglés como segunda lengua**_ 👨🏾‍🏫
 
-Here are some ideas to get you started:
+Tengo *34* años, son como más de 7 años que estoy trabajando en esto. La programación siempre me interesó desde hace un par de años estoy tomando una par de clases y Bootcamps para desarrollar esta linda habilidad. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qué me interesa de la programación?
+
+Bueno, desde muy joven con un amigo que es ingeniero, me llamó la antención la programación y _todo lo que se puede lograr_ con esta habilidad.
+
+💻 Mis **areas de interes** dentro de la programación, son:
+
+1. El desarrollo web.
+1. El backend. _(por lo que necesito aprender bien JS)_
+1. El frontend.
+1. El diseño de aplicaciones móviles.
+
+Es por esta razón que estoy formando parte de un Bootcamp para aprender las herramientas necesarias para convertirme en un desarrollador de _**JavaScript**_ y con práctica, volverme **"Full Stack"**
+
+📅 En la **1ra** clase de la **1ra** semana estamos aprendiendo a utilizar _Mark down_ un sistema de etiquetado simple pero poderoso por la versatilidad y la amigabilidad que tiene para una cantidad de entornos y lenguajes.
+
+🟢 **Terminales** también fueron parte de la primera clase. Las terminales tienen una serie de comandos que son muy útiles para su utilización. _Por ejemplo_ 👇🏾
+
+| Comando | Descripción |
+|---------|-------------|
+|pwd   | Nos muestra en que carpena nos encotramos |
+|clear | Nos limpia la pantalla de la terminal     |
+|cd    | Nos permite movernos de una carpeta a otra|
+|ren   | Nos permite renombrar un Item             |
+|ri    | Nos permite borrar un Item                |
+
+### Alias de comandos.
+
+
+|    Alias      | Nombre de comando |
+|---------------|-------------------|
+|st	            |status             |
+|co	            |chekout            |
